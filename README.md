@@ -4,6 +4,5 @@ Hey My Name is Vivien Buchanan,
 
 I´m a 3D Artist who graduated with a Diploma in Game Arts & 3D Animation at the SAE Institute Cologne 2022.
 
-Coming march 2023 I will start my Bachelor of Arts Degree. 
+I am currentl working on my Game Art & 3D Animation Bachelor
 
-In the following files I will provide deeper information regading my skillset in organisation, planning and implementing my projects.
